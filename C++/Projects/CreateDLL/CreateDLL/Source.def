@@ -1,0 +1,6 @@
+LIBRARY "CreateDLL"
+
+EXPORTS
+     Add @1
+	 substract @2
+	 printHello @3
