@@ -2,3 +2,4 @@
   
 这是我第一次用Java调用C++代码所以特此记录！
 
+[详细见WIKI](https://github.com/fanspaceshow/JNADemo/wiki)
